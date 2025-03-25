@@ -37,7 +37,7 @@
   .signup {
     padding: 10px 20px;
     background-color: #f2c94c;
-    color: white;
+    color: rgb(15, 8, 8);
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -45,7 +45,7 @@
   
   .know-more {
     margin-left: 20px;
-    color: #f2c94c;
+    color: #644e0b;
     text-decoration: none;
   }
   

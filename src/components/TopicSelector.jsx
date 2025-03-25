@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./TopicSelector.css"; 
+import "./TopicSelector.css";
 
 const TopicSelector = ({ onStartQuiz }) => {
   const availableTopics = [
